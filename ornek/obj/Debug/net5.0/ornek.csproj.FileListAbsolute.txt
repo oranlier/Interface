@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\Interface\ornek\bin\Debug\net5.0\ornek.exe
+C:\Users\brk\Documents\patika\Interface\ornek\bin\Debug\net5.0\ornek.deps.json
+C:\Users\brk\Documents\patika\Interface\ornek\bin\Debug\net5.0\ornek.runtimeconfig.json
+C:\Users\brk\Documents\patika\Interface\ornek\bin\Debug\net5.0\ornek.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\Interface\ornek\bin\Debug\net5.0\ornek.dll
+C:\Users\brk\Documents\patika\Interface\ornek\bin\Debug\net5.0\ref\ornek.dll
+C:\Users\brk\Documents\patika\Interface\ornek\bin\Debug\net5.0\ornek.pdb
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.dll
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ref\ornek.dll
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.pdb
+C:\Users\brk\Documents\patika\Interface\ornek\obj\Debug\net5.0\ornek.genruntimeconfig.cache
